@@ -1,0 +1,26 @@
+Created by: Goom
+
+version 1.1
+
+UI only mod (can be used in multiplayer).
+
+Shows all selected unit primary weapon and build ranges by pressing numpad 0.
+
+Shows commonly used ranges by pressing numpad 1-9. The common range markers can be cancelled with a right click, or placed on the map with left click. Numpad period ('.') will clear all existing markers.
+The common range keys can be set to your own ranges by selecting the unit you want to use the range of and pressing ctrl+key.
+
+Default ranges:
+1 - T1 PD range
+2 - T2 PD range
+3 - T2 Artillery range
+4 - MML range
+5 - Mobile T3 Artillery range
+6 - Scathis range
+7 - ACU build range
+8 - SMD range
+9 - Omni Sensor omni range
+
+Installation:
+extract to your \supreme commander\mods\ folder, and activate the mod in the extras menu.
+
+Thanks to Spooky for the original idea and the great new textures.
